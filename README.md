@@ -6,5 +6,5 @@ Welcome to my Github
 
 - Insta: Maniclout
 - Dev.to: Lizard
-- Github: Ben-0-mad (organisation Benomad)
+- Github: Ben-0-mad
 - Website: [benomad.github.io](https://benomad.github.io)
