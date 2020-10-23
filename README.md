@@ -1,8 +1,8 @@
-### Benomad
+## Benomad
 
 Welcome to my Github
 
-## Socials
+### Socials
 
 - Insta: Maniclout
 - Dev.to: Lizard
