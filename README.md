@@ -1,6 +1,6 @@
 # Benomad 🦎
 
-Welcome to my Github. Here you will find most of my projects. Everything can be found on my website however :)
+Welcome to my Github. Here you will find most of my projects. Later everything can be found on my website however
 
 ### Socials
 
